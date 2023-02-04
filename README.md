@@ -2,7 +2,7 @@
 
 <h2>Me Chamo Jefferson Felipe,e sou um Desenvolvedor autodidata e louco pela tecnologia!</h2>
 <ul> 
-  <li> Atualmente busco uma oportunidade na área, seja estágio, seja junior, e seja Front-End, ou seja Back-End, e o que for necessário para conseguir farei.</li>
+  <li> Atualmente busco uma oportunidade na área, seja estágio, seja junior, e seja Front-End, ou seja Back-End, e o que for necessário para conseguir, farei.</li>
   <li>Busco novas experiencias na área, novos desafios, adoro resolução de problemas, aquilo que me faz pensar qual a melhor forma de chegar em uma conclusão certa.</li>
   <li>Tenho conhecimento avançado em Javascript,Nodejs, Sass/Css - Html/Bootstap, banco de dados não relacional MongoDB, conhecimentos básicos no banco de dados relacinal Mysql, e conhecimentos básicos e java com orientação a objetos.</li>
     <li>E atualmente estou focado em Reactjs, buscando fazer implementação com React,nodejs e um banco de dados.</li>
